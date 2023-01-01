@@ -10,5 +10,5 @@ app.get('/',(req,res)=>{
     res.sendFile(path.join(__dirname,'/index.html'))
 });
 
-app.listen(4000);
+app.listen(3000);
 console.log("app is llistening on 3000")
