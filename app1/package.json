@@ -21,9 +21,6 @@
   "homepage": "https://github.com/Sam9311/aws-deploy#readme",
   "dependencies": {
     "express": "^4.18.2",
-    "mongoose": "^6.8.1",
-    "npm": "^9.2.0",
-    "pm": "^2.2.6",
     "Router": "^2.1.0"
   }
 }
