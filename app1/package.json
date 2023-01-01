@@ -1,0 +1,29 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "This is the app made for server deployment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sam9311/aws-deploy.git"
+  },
+  "keywords": [
+    "abc"
+  ],
+  "author": "Sumit Mali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sam9311/aws-deploy/issues"
+  },
+  "homepage": "https://github.com/Sam9311/aws-deploy#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.1",
+    "npm": "^9.2.0",
+    "pm": "^2.2.6",
+    "Router": "^2.1.0"
+  }
+}
